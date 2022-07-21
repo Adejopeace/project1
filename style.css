@@ -1,0 +1,114 @@
+body{
+    background-image: url("image.jpeg");
+    
+    
+}
+.whole{
+    /**background-color: white;**/
+    background-color: hsl(0, 0%, 100%);
+    /**border-style: groove;**/
+    border-color: #ebe0e0ee;
+    height: 600px;
+    margin: 60px 50px;
+    padding: 40px;
+
+}
+.first{
+    font-size: 25px;
+    text-align: center;
+    color: rgb(18, 48, 112);
+    font-style: normal;
+}
+h1{
+    text-align: center;
+    color: rgb(6, 32, 90);
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
+.sec{
+    text-align: center;
+    color: rgb(6, 32, 90);
+    font-size: 13px;
+    margin-top: 6px;
+
+}
+
+#head{
+    font-size: 22px;
+    color: rgb(6, 32, 90);
+}
+
+ul{
+    color:  rgb(18, 48, 112);
+    list-style: none;
+    margin-top: 50px;
+    padding-bottom: 50px;
+    
+    height: 400px;
+}
+.a{
+    border-style: groove;
+    height: 170px;
+    width: 220px;
+    padding-left: 20px;
+    margin-top: 20px;
+    border-color:#62daff white white white ;
+    position: relative;
+    left: 150px;
+    top: 80px;
+    background-image: url("glass.png");
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-color: rgb(248, 248, 248);
+    
+}
+.b{
+    border-style: groove;
+    height: 170px;
+    width: 220px;
+    padding-left: 20px;
+    margin-top: 20px;
+    border-color:red white white white ;
+    position: relative;
+    left: 420px;
+    bottom: 170px;
+    background-image: url("house.png");
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-color: rgb(248, 248, 248)
+
+}
+.c{
+border-style: groove;
+    height: 170px;
+    width: 220px;
+    padding-left: 20px;
+    margin-top: 20px;
+    border-color:yellow white white white ;
+    position: relative;
+    left: 420px;
+    bottom: 150px;
+    background-image: url("bulb.png");
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-color: rgb(248, 248, 248)
+    
+
+
+}
+.d{
+    border-style:groove ;
+    height: 170px;
+    width: 220px;
+    padding-left: 20px;
+    margin-top: 20px;
+    border-color:blue white white white ;
+    position: relative;
+    left: 690px;
+    bottom: 515px;
+    background-image: url("desktop.png");
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-color: rgb(248, 248, 248)
+
+}
